@@ -1,6 +1,6 @@
 # Objetivo
 
-O objetivo desse texto é apresentar algumas críticas ao sofismo ["Nota Técnica [sic] – Escola sem Partido"](https://politica.estadao.com.br/blogs/fausto-macedo/mais-de-100-promotores-e-procuradores-lancam-manifesto-contra-professores-militantes-e-ativistas/). 
+O objetivo desse texto é apresentar algumas críticas ao sofisma ["Nota Técnica [sic] – Escola sem Partido"](https://politica.estadao.com.br/blogs/fausto-macedo/mais-de-100-promotores-e-procuradores-lancam-manifesto-contra-professores-militantes-e-ativistas/). 
 
 Sintam-se à vontade em fazerem _forks_, _pull_ requests ou demais contribuições. Esse texto é de Domínio Público.
 
