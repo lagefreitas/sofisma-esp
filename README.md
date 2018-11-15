@@ -8,7 +8,7 @@ Sintam-se à vontade em fazerem _forks_, _pull_ requests ou demais contribuiçõ
 1. Ler o texto de Lenio Streck intitulado ["Escola Sem Partido significa: 'é possível dizer que a terra é plana' "](https://www.conjur.com.br/2018-nov-08/senso-incomum-escola-partido-significa-possivel-dizer-terra-plana).
 
 ### Parágrafo 2
-1. Se há crime, cabe denúncia. É muito importante tipificar o crime, coletas provas e seguir o rito do que o Estado de Direito exige. 
+1. Se há crime, cabe denúncia. É muito importante tipificar o crime, coletar provas e seguir o rito que o Estado de Direito exige. 
 
 ### Parágrafo 3
 1. Definir quais problemas da sociedade devem ser priorizados é pauta democrática. Traçar estratégias de como esses problemas serão resolvidos é pauta meritocrática, o que quer dizer que cabe a especialistas propor essas estratégias.
